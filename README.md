@@ -6,6 +6,10 @@ Tools used by VCB-Studio collation group
 
 ## Download all tools of newest version
 
+No wget installed:
+Download and unpack [this file](https://raw.githack.com/vcb-s/collation-tools/master/vcb-collation-tools.zip) and click `get_tools.bat`
+
+wget installed:
 `wget -r -l1 -H -t1 -nd -N -np -A.zip  -erobots=off  https://raw.githack.com/vcb-s/collation-tools/master/DownloadLinks.html`
 
 ## Tool list 
