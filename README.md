@@ -6,7 +6,7 @@ Tools used by VCB-Studio collation group
 
 ## Download all tools of newest version
 
-`wget -r -l1 -H -t1 -nd -N -np -A.zip  -erobots=off  https://htmlpreview.github.io/?https://github.com/vcb-s/collation-tools/blob/master/DownloadLinks.html`
+`wget -r -l1 -H -t1 -nd -N -np -A.zip  -erobots=off  https://raw.githack.com/vcb-s/collation-tools/master/DownloadLinks.html`
 
 ## Tool list 
 
